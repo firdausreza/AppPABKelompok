@@ -1,0 +1,58 @@
+<resources>
+    <string name="app_name">Appkelompok</string>
+    <string name="heading_main">Hai! Selamat datang!</string>
+    <string name="title_tautan">Ceramah Ust. Adi Hidayat</string>
+    <string name="tautan_button">Open in Youtube</string>
+    <string name="profile_button">M Reza Ali F</string>
+    <string name="profile_buttonyp">N F Yudha Putra</string>
+    <string name="heading_reza">Halo yang disana!</string>
+    <string name="heading_yp">Halo yang lagi baca ^_^</string>
+    <string name="profile_desc">
+        Hi there, my name is <b>Reza</b>. My full name is <b><i>Mohammad Reza Ali Firdaus</i></b>. I am 19 years old currently, live in Surabaya, East Java, Indonesia. I am a colleger right now studying at Islamic University of Indonesia, bachelor of Informatics Engineering.
+        \n\n
+        I have my interest for becoming Frontend Web Developer and Game Developer (still learning, dont mention me), and i want to become a successful developer in the future.. so i hope i can do it (hope you too). I have a big enthusiast in both world of game and web development, and so easy to interested in something interesting.
+        \n\n
+        Feel free to explore, and ask me by contacting my social media that i have provide it on the contact section. If you want me to collaborate in your projects, dont hesitate to contact me. I will think it over if i have no or less hectic projects on my schedule.
+        \n\n
+        I will see you on the next time.
+    </string>
+    <string name="profile_yp">
+        Hello there, my name is <b>Yudha</b>. My full name is <b><i>Nugroho Fadillah Yudha Putra</i></b>. I am 19 years old currently, live in Sampit, Central Borneo, Indonesia. I am a Colleger right now studying at Islamic University of Indonesia, Bachelor of Informatics Engineering.
+        \n\n
+        I have my interest for becoming BackEnd Web Developer (But im still learning, so don\'t expect too much), and i want to become a successful hacker and developer (if i can) in the future.. I have a big enthusiast in both BackEnd Programming and Web Development, and im easily interested in something interesting.
+        \n\n
+        Feel free to explore, and ask me by contacting my social media that i have provide it on the contact section. If you want me to collaborate in your projects, dont hesitate to contact me. I will think it over if i have no or less hectic projects on my schedule.
+        \n\n
+        Im sorry if i have a mistake in my words above and i hope you enjoy my simple description of myself.
+    </string>
+    <string name="profile_fadil">
+        Hello there, my name is <b>Fadil</b>. My full name is <b><i>Fadila Ahmad S</i></b>. I am 20 years old currently, live in Sleman, Yogyakarta, Indonesia. I am a Colleger right now studying at Islamic University of Indonesia, Bachelor of Informatics Engineering.
+        \n\n
+        I have my interest for becoming BackEnd Web Developer (But im still learning, so don\'t expect too much), and i want to become a successful Security Engineer and developer (if i can) in the future.. I have a big enthusiast in both BackEnd Programming and Web Development, and im easily interested in something interesting.
+        \n\n
+        Feel free to explore, and ask me by contacting my social media that i have provide it on the contact section. If you want me to collaborate in your projects, dont hesitate to contact me. I will think it over if i have no or less hectic projects on my schedule.
+    </string>
+    <string name="ig_button">My Instagram</string>
+    <string name="fb_button">My Facebook</string>
+    <string name="fb_buttonyp">My Facebook</string>
+
+    <string name="heading_fadhlan">السَّلاَمُ عَلَيْكُمْ وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ</string>
+    <string name="t_fadhlan">
+        Hello there, my name is <b>Fadhlan Failusuf</b>. I am 20 years old currently, live in Sukabumi, West Java, Indonesia. I am studying at Islamic University of Indonesia, Bachelor of Informatics. I have my interest for Android Developer
+        \n\n
+        Feel free to explore, and ask me by contacting my social media that i have provide it on the contact section. If you want me to collaborate in your projects, dont hesitate to contact me. I will think it over if i have no or less hectic projects on my schedule.
+    </string>
+    <string name="et_fadhlanemail">18523142@students.uii.ac.id</string>
+    <string name="b_fadhlanig">Instagram</string>
+    <string name="b_fadhlan">Fadhlan F S</string>
+    <string name="group_desc">Salam! Kami dari kelompok ---- PAB kelas C</string>
+    <string name="chat_text">Masukkan teks disini</string>
+    <string name="kirim_button">Kirim</string>
+    <string-array name="nama_array">
+        <item>Reza</item>
+        <item>Yudha</item>
+        <item>Fadhlan</item>
+        <item>Fadil</item>
+        <item>Haris</item>
+    </string-array>
+</resources>
