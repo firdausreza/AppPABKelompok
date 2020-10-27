@@ -1,7 +1,12 @@
 <resources>
     <string name="app_name">Appkelompok</string>
     <string name="heading_main">Hai! Selamat datang!</string>
-    <string name="title_tautan">Ceramah Ust. Adi Hidayat</string>
+    <string name="title_tautan">Renungan 13 Menit yang bisa membuat hidupmu berubah - Ust Adi Hidayat Lc., Ma</string>
+    <string name="title_tautan1">Perbaiki DiriMu, Mulai Dari Perbaiki SHOLAT!! - Ustadz Adi Hidayat</string>
+    <string name="title_tautan2">Rahasia Rejeki Selalu Mengalir | Ust. Adi Hidayat</string>
+    <string name="title_tautan3">Inilah Ciri Orang Munafik - Ustadz Adi Hidayat</string>
+    <string name="title_tautan4">Ceramah Ust. Adi Hidayat</string>
+    <string name="title_tautan5">Ceramah Ust. Adi Hidayat</string>
     <string name="tautan_button">Open in Youtube</string>
     <string name="profile_button">M Reza Ali F</string>
     <string name="profile_buttonyp">N F Yudha Putra</string>

@@ -18,7 +18,6 @@ public class reza extends AppCompatActivity {
     public static final String EXTRA_MESSAGE = "com.example.android.appkelompok.extra.MESSAGE";
     private EditText editText;
     private Spinner spinNama;
-    private String nama;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {

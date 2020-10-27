@@ -45,13 +45,14 @@
                 android:layout_height="match_parent"
                 android:layout_marginTop="8dp"
                 android:layout_marginBottom="8dp"
-                android:text="@string/title_tautan"
+                android:text="@string/title_tautan1"
                 android:textColor="@android:color/black" />
 
             <Button
                 android:id="@+id/tautan_button2"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
+                android:onClick="tautan1"
                 android:text="@string/tautan_button" />
 
             <TextView
@@ -60,13 +61,14 @@
                 android:layout_height="match_parent"
                 android:layout_marginTop="8dp"
                 android:layout_marginBottom="8dp"
-                android:text="@string/title_tautan"
+                android:text="@string/title_tautan2"
                 android:textColor="@android:color/black" />
 
             <Button
                 android:id="@+id/tautan_button3"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
+                android:onClick="tautan2"
                 android:text="@string/tautan_button" />
 
             <TextView
@@ -75,13 +77,14 @@
                 android:layout_height="match_parent"
                 android:layout_marginTop="8dp"
                 android:layout_marginBottom="8dp"
-                android:text="@string/title_tautan"
+                android:text="@string/title_tautan3"
                 android:textColor="@android:color/black" />
 
             <Button
                 android:id="@+id/tautan_button4"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
+                android:onClick="tautan3"
                 android:text="@string/tautan_button" />
 
             <TextView
@@ -97,6 +100,7 @@
                 android:id="@+id/tautan_button5"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
+                android:onClick="tautan"
                 android:text="@string/tautan_button" />
 
         </LinearLayout>

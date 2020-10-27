@@ -41,4 +41,25 @@ public class MainActivity extends AppCompatActivity {
         Intent intent = new Intent(Intent.ACTION_VIEW, webPage);
         startActivity(intent);
     }
+
+    public void tautan1(View view) {
+        String uri = "https://www.youtube.com/watch?v=bT8FfiBzTck";
+        Uri webPage = Uri.parse(uri);
+        Intent intent = new Intent(Intent.ACTION_VIEW, webPage);
+        startActivity(intent);
+    }
+
+    public void tautan2(View view) {
+        String uri = "https://www.youtube.com/watch?v=aQHKDAsReyU";
+        Uri webPage = Uri.parse(uri);
+        Intent intent = new Intent(Intent.ACTION_VIEW, webPage);
+        startActivity(intent);
+    }
+
+    public void tautan3(View view) {
+        String uri = "https://www.youtube.com/watch?v=v8dEqb4adk0";
+        Uri webPage = Uri.parse(uri);
+        Intent intent = new Intent(Intent.ACTION_VIEW, webPage);
+        startActivity(intent);
+    }
 }

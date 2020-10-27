@@ -14,8 +14,9 @@ public class activity_yudha extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_yudha);
         Intent intent = getIntent();
-        String msg = intent.getStringExtra(reza.EXTRA_MESSAGE);
-        Log.d("Info text", msg);
-        Toast.makeText(this, msg, Toast.LENGTH_LONG).show();
+        if (intent.getStringExtra(reza.EXTRA_MESSAGE) != null){
+            String msg = intent.getStringExtra(reza.EXTRA_MESSAGE);
+            Toast.makeText(this, msg, Toast.LENGTH_LONG).show();
+        }
     }
 }
